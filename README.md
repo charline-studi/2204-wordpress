@@ -30,3 +30,4 @@ Nous allons découvrir comment créer des thèmes uniques avec le plugin ACF : A
 |        |            |           |                                                                                                       |                       |
 
 ## Ressources
+- [🎥 Live Studi installation Mamp / Wamp / Xampp](https://app.studi.fr/#/dashboard/events/28002/replay)
