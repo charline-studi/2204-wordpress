@@ -20,7 +20,7 @@ Nous allons découvrir comment créer des thèmes uniques avec le plugin ACF : A
 | 01     | 04/04/2022 | 15h - 16h | Installation Wordpress, création thème "vide" / "blanc", découverte du back-office, installation ACF. | https://app.studi.fr/#/dashboard/events/31183/replay |
 | 02     | 06/04/2022 | 15h - 16h | Les modèles de page                                                                                   | https://app.studi.fr/#/dashboard/events/31184/replay |
 | 03     | 08/04/2022 | 15h - 16h | Les customs post-type                                                                                 | https://app.studi.fr/#/dashboard/events/31185/replay |
-| 04     | 11/04/2022 | 15h - 16h | Les taxonomies                                                                                        | pas encore disponible |
+| 04     | 11/04/2022 | 15h - 16h | Les taxonomies                                                                                        | https://app.studi.fr/#/dashboard/events/31186/replay |
 | 05     | 13/04/2022 | 15h - 16h | Header et Footer                                                                                      | pas encore disponible |
 | 06     | 15/04/2022 | 15h - 16h | Création back-office personnalisé via ACF                                                             | pas encore disponible |
 | 07     | 19/04/2022 | 15h - 16h | Récupération et affichage des champs "simples" ACF sur nos pages                                      | pas encore disponible |
