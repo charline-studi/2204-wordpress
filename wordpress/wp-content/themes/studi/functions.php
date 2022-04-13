@@ -2,57 +2,6 @@
 
 // CPT = Custom Post-Type
 
-/*
-Création de mon Custom Post-type : Courses
-*/
-function create_custom_posttype() {
-
-    // Fonction proposée par WP pour créer des Custom Post-type
-    register_post_type(
-        'races', 
-        array(
-            'label' => 'Courses',
-            'description' => 'Un Grand-Prix de formule 1',
-            'public' => true,
-            'show_ui' => true,
-        )
-    );
-}
-
-add_action( 'init', 'create_custom_posttype' );
-
-
-/*
-Création de la catégorie associée à mon CPT : Championnat
-*/
-
-function create_taxonomy_races(){
-
-    // Fonction WP
-    register_taxonomy(
-        'tax_races_championship',
-        'races',
-        array(
-            'labels' => array(
-                'name' => 'Championnats',
-                'singular_name' => 'Championnat'
-            ),
-            'description' => 'Saison',
-            'public' => false,
-            'show_ui' => true,
-            'hierarchical' => true,
-        )
-    );
-}
-
-add_action('init', 'create_taxonomy_races');
-
-
-
-/*
-Exemple Portfolio
-*/
-
 function create_custom_posttype_project() {
 
     register_post_type(
@@ -94,3 +43,16 @@ function create_taxo_project() {
 };
 
 add_action('init', 'create_taxo_project');
+
+function load_styles() {
+
+    wp_enqueue_style(
+        'main',
+        get_template_directory_uri() . '/css/style.css',
+        array(),
+        '',
+        false
+    );
+}
+
+add_action('wp_enqueue_scripts', 'load_styles');
