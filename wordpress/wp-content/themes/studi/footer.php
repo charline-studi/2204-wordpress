@@ -1,5 +1,5 @@
 <footer>
-    <p>Mon footer</p>
+    <p>Copyright Charline Laporte - 2022</p>
 </footer>
 
 </body>
