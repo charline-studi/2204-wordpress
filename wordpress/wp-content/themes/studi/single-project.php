@@ -53,4 +53,16 @@ $checkbox = get_field('show_button');
 <br>
 <?php the_field('introduction', $projectTwoID ) ?>
 
+<h3>Suggestion de projets</h3>
+
+<?php $params = array(
+    'post_type' => 'project',
+    'numberposts' => -1,
+    'exclude' => [$post->ID],
+) ?>
+<?php $projectsSuggested = get_posts($params)?>
+<pre>
+    <?php var_dump($projectsSuggested)?>
+</pre>
+
 <?php get_footer() ?>

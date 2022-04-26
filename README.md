@@ -28,7 +28,7 @@ Nous allons découvrir comment créer des thèmes uniques avec le plugin ACF : A
 | 06     | 15/04/2022 | 15h - 16h | Création back-office personnalisé via ACF                                                             | https://app.studi.fr/#/dashboard/events/31188/replay |
 | 07     | 19/04/2022 | 15h - 16h | Récupération et affichage des champs "simples" ACF sur nos pages                                      | https://app.studi.fr/#/dashboard/events/31189/replay |
 | 08     | 21/04/2022 | 15h - 16h | Récupération et affichage des champs "complexes" ACF sur nos pages                                    | https://app.studi.fr/#/dashboard/events/31190/replay |
-| 09     | 26/04/2022 | 15h - 16h | Filtrer et afficher des custom post-type                                                              | pas encore disponible                                |
+| 09     | 26/04/2022 | 15h - 16h | Filtrer et afficher des custom post-type                                                              | https://app.studi.fr/#/dashboard/events/31191/replay |
 | 10     | 28/08/2022 | 15h - 16h | La page option                                                                                        | pas encore disponible                                |
 |        |            |           |                                                                                                       |                                                      |
 
@@ -37,3 +37,5 @@ Nous allons découvrir comment créer des thèmes uniques avec le plugin ACF : A
 - [⬇️ Télécharger Wordpress](https://wordpress.org/download/)
 - [🎥 Live Studi installation Mamp / Wamp / Xampp](https://app.studi.fr/#/dashboard/events/28002/replay)
 - [📖 ACF Advanced Custom Fields](https://www.advancedcustomfields.com/resources/)
+- [📖 get_posts Wordpress](https://developer.wordpress.org/reference/functions/get_posts/)
+- [📖 get_posts ACF](https://www.advancedcustomfields.com/resources/query-posts-custom-fields/)
