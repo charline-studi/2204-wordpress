@@ -1,0 +1,1 @@
+<?php /* Template Name: Page vide */?>

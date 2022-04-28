@@ -29,7 +29,7 @@ Nous allons découvrir comment créer des thèmes uniques avec le plugin ACF : A
 | 07     | 19/04/2022 | 15h - 16h | Récupération et affichage des champs "simples" ACF sur nos pages                                      | https://app.studi.fr/#/dashboard/events/31189/replay |
 | 08     | 21/04/2022 | 15h - 16h | Récupération et affichage des champs "complexes" ACF sur nos pages                                    | https://app.studi.fr/#/dashboard/events/31190/replay |
 | 09     | 26/04/2022 | 15h - 16h | Filtrer et afficher des custom post-type                                                              | https://app.studi.fr/#/dashboard/events/31191/replay |
-| 10     | 28/08/2022 | 15h - 16h | La page option                                                                                        | pas encore disponible                                |
+| 10     | 28/08/2022 | 15h - 16h | La page option                                                                                        | https://app.studi.fr/#/dashboard/events/31192/replay |
 |        |            |           |                                                                                                       |                                                      |
 
 ## Ressources
